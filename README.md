@@ -1,303 +1,190 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Dunna+Madhava+Rao;🚀+DevOps+Engineer;☁️+AWS+%7C+Docker+%7C+Kubernetes;⚙️+CI%2FCD+%26+Automation+Enthusiast;💻+Linux+%26+Cloud+Learner;🌱+Always+Learning,+Always+Building" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:38BDF8&height=220&section=header&text=Dunna%20Madhava%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20CI%2FCD%20%7C%20GitOps%20%7C%20AWS&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 
-# DUNNA MADHAVA RAO
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=4%2B+years+in+BFSI+release+%26+deployment+engineering;CI%2FCD+with+Jenkins+%26+GitHub+Actions;GitOps+with+ArgoCD+%2B+Helm;Terraform+%7C+Ansible+%7C+Kubernetes+%7C+AWS;Every+repetitive+task+can+%E2%80%94+and+should+%E2%80%94+be+automated" alt="Typing SVG" />
+</a>
 
-### DevOps Engineer | CI/CD | AWS | Docker | Kubernetes | 4+ Years
-
-<p align="center">
-
+<p>
+<a href="mailto:madhavchinna707@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/madhava-rao-dunna-0712741a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio-pi-two-azllspwmeq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=immadhav7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/immadhav7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/immadhav7?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<a href="mailto:madhavchinna707@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhava-rao-dunna-0712741a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/immadhav7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I am a **Systems Engineer at Tata Consultancy Services (TCS)** with **4+ years of experience** in deployment and release management within the **BFSI domain**.
+DevOps Engineer at **Tata Consultancy Services (TCS)** with **4+ years** of experience in CI/CD automation, release management, cloud infrastructure and production deployments across **BFSI** clients (insurance domain).
 
-I specialize in application deployments, production support, troubleshooting, and release management while continuously improving operational efficiency through automation.
+- 🏢 Day to day: owning Jenkins pipelines (Git → SonarQube → Maven/Gradle) and releasing across **UAT, Pre-Prod and Production**
+- 🛠️ Writing Bash automation that cuts manual deployment effort and keeps releases consistent
+- ☁️ Building personal projects on **Kubernetes, Terraform, ArgoCD and AWS-native CI/CD** to take my hands-on skills beyond the day job
+- 🎓 B.Tech Civil Engineering (RGUKT IIIT Nuzvid) → self-taught into DevOps
 
-Currently transitioning into **DevOps Engineering** with hands-on experience in:
+## 🎯 Career Goal
 
-* 🚀 Jenkins CI/CD Pipelines
-* 🐳 Docker Containerization
-* ☁️ AWS (EC2, S3, IAM)
-* ☸️ Kubernetes
-* ⚡ Linux Administration
-* 🔧 Infrastructure Automation
-
-I am passionate about **Cloud Computing**, **DevOps**, **Automation**, and building scalable, reliable infrastructure.
+Looking for a **DevOps / Cloud Engineer** role in **product-based companies and remote teams**, working on cloud-native infrastructure, CI/CD automation, GitOps and reliability.
 
 ---
 
-# 🎯 Career Goal
+## 🧰 Tech Stack
 
-I'm actively looking for opportunities as a **DevOps Engineer** in **Product-Based Companies** and **Remote Teams**, where I can contribute to cloud-native infrastructure, CI/CD automation, and modern DevOps practices.
+<div align="center">
 
----
+**CI/CD & GitOps**
 
-# 💻 Tech Stack
+<img src="https://skillicons.io/icons?i=jenkins,githubactions,git,github,maven,gradle" /> 
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 
-## Programming & Scripting
+**Cloud & Infrastructure as Code**
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge\&logo=yaml)
+<img src="https://skillicons.io/icons?i=aws,terraform,ansible,linux,ubuntu" />
 
----
+**Containers & Orchestration**
 
-## DevOps & Cloud
+<img src="https://skillicons.io/icons?i=docker,kubernetes" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazonec2)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazons3)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+**Monitoring & Scripting**
 
----
+<img src="https://skillicons.io/icons?i=prometheus,grafana,bash,python,mysql" />
 
-## Operating Systems
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge\&logo=centos)
-![RedHat](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge\&logo=redhat)
+<details>
+<summary><b>📋 AWS services I've worked with</b></summary>
+<br>
+
+`EC2` `IAM` `VPC` `EBS` `S3` `CloudWatch` `ECR` `EKS` `ECS Fargate` `ALB` `CodePipeline` `CodeBuild` `CodeDeploy` `SNS` `AWS VDI`
+
+</details>
 
 ---
 
-## Version Control
+## 🚀 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+### 1️⃣ [DeployGate: End-to-End CI/CD & Kubernetes Deployment Pipeline](https://github.com/immadhav7/DeployGate)
 
----
+Containerized a Spring Boot + PostgreSQL app and delivered it through a full Jenkins pipeline to a self-managed Kubernetes cluster on AWS.
 
-## Monitoring
+- Multi-stage Docker build producing a minimal **non-root** image
+- Declarative **Jenkins pipeline as code**: build, 37 unit tests, SonarCloud analysis, Docker image build/tag on every commit
+- Deployed to **k3s on EC2** with Deployments, Services, ConfigMaps, Secrets, PVCs and in-cluster PostgreSQL
+- **Prometheus + Grafana** monitoring (7 healthy scrape targets verified via PromQL)
+- Diagnosed two real incidents (swap-driven I/O bottleneck at 84.9% I/O wait, undersized EBS volume) using `top`, `free`, `systemctl` and CloudWatch
+- Provisioning automated with **Ansible**; Terraform IaC authored for VPC, EKS and IAM
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
-
----
-
-# 🚀 Featured Projects
-
-<!-- Replace repository links with your actual repositories -->
-
-## 🚀 DevOps CI/CD Pipeline Automation
-
-Automated application build, testing, Docker image creation, and deployment using Jenkins and AWS EC2. Demonstrates complete CI/CD implementation and release automation.
-
-**Tech Stack**
-
-`Jenkins` `Docker` `Git` `AWS EC2` `Linux`
-
-🔗 Repository: **Coming Soon**
+`GitHub` `Spring Boot` `Docker` `Kubernetes` `Jenkins` `SonarCloud` `Ansible` `Terraform` `Helm` `Prometheus` `Grafana` `AWS`
 
 ---
 
-## ☁️ AWS Infrastructure Automation with Terraform
+### 2️⃣ [LiveQuiz: GitOps Delivery Platform on AWS](https://github.com/immadhav7/livequiz-deploy)
 
-Provisioned AWS infrastructure using Infrastructure as Code (IaC), including EC2, IAM, and S3 resources with reusable Terraform modules.
+A GitOps delivery platform for a Spring Boot quiz web app, with app code and deploy config split across repos.
 
-**Tech Stack**
+- **GitHub Actions** tests the app, pushes a **SHA-tagged image to GHCR**, then commits the new tag to a separate deploy repo
+- **ArgoCD + self-written Helm chart**: dev auto-syncs with self-heal; prod changes only via reviewed PR plus manual Sync; **rollback is a `git revert`**
+- **Terraform** provisions EC2 + k3s (single-IP security group, IMDSv2, encrypted disk); the full environment **rebuilds from code in ~10 minutes**
 
-`Terraform` `AWS` `GitHub` `Linux`
-
-🔗 Repository: **Coming Soon**
-
----
-
-## ☸️ Dockerized Microservices Deployment on Kubernetes
-
-Containerized applications and deployed them on Kubernetes using Deployments, Services, ConfigMaps, and rolling updates.
-
-**Tech Stack**
-
-`Docker`
-
-`Kubernetes`
-
-`YAML`
-
-`Git`
-
-🔗 Repository: **Coming Soon**
+`GitHub Actions` `GHCR` `Docker` `Terraform` `Helm` `ArgoCD` `k3s`
 
 ---
 
-# 📊 GitHub Analytics
+### 3️⃣ [AWS CI/CD Platform: Multi-Environment Blue/Green Delivery on ECS Fargate](https://github.com/immadhav7/aws-cicd-platform)
 
-<p align="center">
+An AWS-native, multi-environment delivery platform built entirely with Terraform.
+
+- Each commit is **tested and built once**, tagged with its SHA, deployed to dev, then promoted to prod behind a **manual SNS approval gate**
+- **Blue/green canary deploys** with CodeDeploy (10% traffic for 5 minutes) and a CloudWatch 5xx alarm
+- Demonstrated **automatic rollback** using a simulated fault that passed health checks but failed real requests
+- **Least-privilege IAM** per service and **immutable ECR tags**, so every running version maps to exactly one commit
+- Per-environment CloudWatch dashboards plus teardown and billing-check scripts (~$0.15/hr with both environments up)
+
+`AWS` `Terraform` `ECS Fargate` `CodePipeline` `CodeBuild` `CodeDeploy` `ECR` `ALB` `CloudWatch` `SNS`
+
+---
+
+### 🔄 How my projects deliver code
+
+```mermaid
+flowchart LR
+    A[Git Commit] --> B[Test + Scan]
+    B --> C[Build Image<br/>SHA tag]
+    C --> D[Registry<br/>GHCR / ECR]
+    D --> E[Deploy: Dev]
+    E --> F{Approval<br/>Gate}
+    F --> G[Deploy: Prod<br/>Canary / GitOps]
+    G --> H[Monitor<br/>Auto-rollback]
+```
+
+---
+
+## 💼 Experience
+
+| Period | Role | Client |
+|---|---|---|
+| 01/2024 – Present | **DevOps Engineer**, TCS | SBI General Insurance (SBIG BFSI Products) |
+| 06/2023 – 12/2023 | **Systems Engineer**, TCS | Bajaj Allianz General Insurance |
+| 06/2022 – 05/2023 | **Systems Engineer**, TCS | Future Generali India Insurance |
+
+**What I do:** Jenkins CI/CD ownership · releases across UAT / Pre-Prod / Prod via AWS VDI · server monitoring and log analysis · MySQL changes · Bash automation · working with dev and ops teams on release stability.
+
+---
+
+## 🏅 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
+
+## 📚 Currently Learning
+
+- ☸️ Kubernetes on AWS (EKS) in depth
+- ☁️ More AWS DevOps services
+- 📊 Observability: Prometheus, Grafana, alerting
+- 🐍 Python for automation
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=immadhav7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immadhav7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=immadhav7&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=immadhav7&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🤝 Open To
 
-<p align="center">
+DevOps roles · CI/CD and GitOps work · Cloud infrastructure and IaC · Open source collaboration
 
-<img src="https://github-profile-trophy.vercel.app/?username=immadhav7&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+## ⚡ Fun Fact
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=immadhav7&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<!-- Enable GitHub Actions later to generate this animation automatically -->
-
-```text
-.github/workflows/snake.yml
-```
-
-Snake Animation Placeholder
-
----
-
-# 🏅 Achievements & Certifications
-
-* 🏆 AWS Certified Cloud Practitioner
-* 🏆 Docker Certified Associate
-* 🏆 Linux Foundation Certification
-* 🏆 TCS Internal Awards
-
-<!-- Update with certificate links later -->
-
----
-
-# 📚 Currently Learning
-
-* ☸️ Kubernetes (Advanced)
-* 🌍 Terraform
-* ⚙️ Ansible
-* 🚀 GitHub Actions
-* 📦 Helm
-* 🔄 Argo CD
-* 📊 Prometheus
-* 📈 Grafana
-* ☁️ AWS DevOps Services
-* 🐍 Python for Automation
-
----
-
-# 🤝 Open to Collaborate On
-
-* Open Source Projects
-* DevOps Automation
-* Cloud Infrastructure
-* Infrastructure as Code (IaC)
-* CI/CD Pipelines
-* Docker & Kubernetes Projects
-* Freelance Opportunities
-* Startup Ideas
-* Research Projects
-
----
-
-# 💡 Interests
-
-* Linux
-* DevOps
-* CI/CD
-* Infrastructure as Code
-* Automation
-* Docker
-* Git
-
----
-
-# ⚡ Fun Fact
-
-🏃 I enjoy fitness, road running, and traveling.
-
-🤖 I love learning new cloud technologies every week.
-
-⚙️ I strongly believe **every repetitive task can—and should—be automated.**
-
----
-
-# 📫 Connect With Me
-
-📍 **Hyderabad, Telangana, India**
-
-📧 **Email**
-
-> [madhavchinna707@gmail.com](mailto:madhavchinna707@gmail.com)
-
-💼 **LinkedIn**
-
-> https://www.linkedin.com/in/madhava-rao-dunna-0712741a7/
-
-💻 **GitHub**
-
-> https://github.com/immadhav7
+🏃 I enjoy fitness, road running and travelling, and I believe **every repetitive task can (and should) be automated.**
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### 📫 Let's connect
 
-### **Code. Automate. Deploy. Repeat. 🔄**
+[![Email](https://img.shields.io/badge/madhavchinna707@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madhavchinna707@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhava%20Rao%20Dunna-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhava-rao-dunna-0712741a7/)
 
-*"Building reliable infrastructure one deployment at a time."*
+*"Building reliable infrastructure, one deployment at a time."* 🔄
 
-If you like my work, consider giving a ⭐ to my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0F172A&height=100&section=footer" />
 
 </div>
